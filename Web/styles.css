@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 4rem;
+    background: rgb(222, 222, 222);
+    position: sticky;
+    top: 0;
+}
+#header-img{
+    width: 20rem;
+}
+nav{
+    display: block;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+}
